@@ -1,8 +1,9 @@
 # Leetcode-Blind-75
 
-# **Arrays & Hashing**
 
-## **Easy**
+# **Hashmap & Array**
+## **Easy** 
+
 
 - **[217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)**
     
@@ -32,7 +33,8 @@
             return False
     
     ```
-    
+
+
 - **[242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
     
     ### **Solution 1**
