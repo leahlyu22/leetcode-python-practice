@@ -1,4 +1,65 @@
-# Leetcode-Blind-75
+
+- [**Hashmap \& Array**](#hashmap--array)
+  - [**Easy**](#easy)
+  - [**Medium**](#medium)
+- [**Two Pointers**](#two-pointers)
+  - [**Easy**](#easy-1)
+  - [**Medium**](#medium-1)
+  - [Hard](#hard)
+- [**Sliding window**](#sliding-window)
+  - [**Easy**](#easy-2)
+  - [**Medium**](#medium-2)
+  - [Hard](#hard-1)
+- [**Stack**](#stack)
+  - [**Easy**](#easy-3)
+  - [**Medium**](#medium-3)
+  - [Hard](#hard-2)
+- [**Binary Search**](#binary-search)
+  - [**Easy**](#easy-4)
+  - [**Medium**](#medium-4)
+  - [Hard](#hard-3)
+- [**Linked List**](#linked-list)
+  - [**Easy**](#easy-5)
+  - [**Medium**](#medium-5)
+  - [Hard](#hard-4)
+- [**Trees**](#trees)
+  - [**Easy**](#easy-6)
+  - [**Medium**](#medium-6)
+  - [Hard](#hard-5)
+- [Tries](#tries)
+  - [Medium](#medium-7)
+  - [Hard](#hard-6)
+- [**Heap/ Priority Queue**](#heap-priority-queue)
+  - [**easy**](#easy-7)
+  - [Medium](#medium-8)
+  - [Hard](#hard-7)
+- [Backtracking](#backtracking)
+  - [Medium](#medium-9)
+  - [Hard](#hard-8)
+- [Graph](#graph)
+  - [Medium](#medium-10)
+  - [Hard](#hard-9)
+- [Advanced Graphs](#advanced-graphs)
+  - [Medium](#medium-11)
+  - [Hard](#hard-10)
+- [**1-D Dynamic Programming**](#1-d-dynamic-programming)
+  - [E**asy**](#easy-8)
+  - [Medium](#medium-12)
+- [2-D Dynamic Programming](#2-d-dynamic-programming)
+  - [Medium](#medium-13)
+  - [Hard](#hard-11)
+- [**Greedy**](#greedy)
+  - [**Easy**](#easy-9)
+  - [Medium](#medium-14)
+- [**Intervals**](#intervals)
+  - [**Easy**](#easy-10)
+  - [Medium](#medium-15)
+  - [Hard](#hard-12)
+- [**Math \& Geometry**](#math--geometry)
+  - [**Easy**](#easy-11)
+  - [Medium](#medium-16)
+- [**Bit Manipulation 位运算**](#bit-manipulation-位运算)
+  - [**Easy**](#easy-12)
 
 
 # **Hashmap & Array**
@@ -37,7 +98,7 @@
 
 - **[242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
     
-    ### **Solution 1**
+    #### **Solution 1**
     
     ```python
     class Solution:
